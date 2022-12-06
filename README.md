@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattmontreuil
 - 👀 I’m interested iOS development
-- 🌱 I’m currently working on something interesting
+- 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on projects that help make the world a better place
 - 📫 How to reach me -> Reddit @mattjpm
 
